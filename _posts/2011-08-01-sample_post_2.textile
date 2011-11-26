@@ -1,0 +1,10 @@
+---
+layout: post
+title: Sample Post 1
+summary: This is a sample post.
+tag: ci
+categories:
+- CI
+---
+
+This article is still coming....
